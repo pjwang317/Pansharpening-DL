@@ -5,5 +5,7 @@ P. Wang , U. Alganci and E. Sertel , "Comparative Analysis on Deep Learning base
 
 
 Reference
-https://github.com/sergiovitale/pansharpening-cnn-python-version
+
+1. https://github.com/sergiovitale/pansharpening-cnn-python-version
+2. https://github.com/zhysora/PSGan-Family
 
